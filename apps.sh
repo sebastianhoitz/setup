@@ -31,7 +31,7 @@ apps=(
   hipchat
   sourcetree
   phpstorm
-  tunnelblick
+  sequel-pro
 )
 
 # fonts

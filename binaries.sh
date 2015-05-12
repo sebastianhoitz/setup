@@ -42,6 +42,9 @@ binaries=(
   ansible
   git-flow
   htop
+  bash-completion
+  tig
+  phantomjs
 )
 
 # Install the binaries
